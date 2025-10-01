@@ -1,0 +1,1 @@
+More of a research project than anything, just lets a basic neural network train on/play pong. All main settings are in main.py, so it's easy enough to change network structure, learning rate, etc. (all rewards are calculated in pong.py)
